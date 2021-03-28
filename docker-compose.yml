@@ -1,0 +1,48 @@
+version: '3.7'
+
+volumes:
+  logs:
+    driver: local
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: digitalocean.com/php
+    restart: unless-stopped
+    tty: true
+    environment:
+      SERVICE_NAME: app
+      SERVICE_TAGS: dev
+    working_dir: /var/www
+    volumes:
+      - ./:/var/www
+      - /var/www/vendor
+    networks:
+      - app-network
+
+  #Nginx Service
+  webserver:
+    image: nginx:alpine
+    restart: unless-stopped
+    tty: true
+    ports:
+      - "8080:80"
+      - "443:443"
+    volumes:
+      - ./:/var/www
+      - ./docker/nginx/conf.d/:/etc/nginx/conf.d/
+    networks:
+      - app-network
+  cron:
+    build:
+      context: .
+      dockerfile: CronDockerfile
+    volumes:
+      - .:/cron
+      - /cron/vendor
+#Docker Networks
+networks:
+  app-network:
+    driver: bridge

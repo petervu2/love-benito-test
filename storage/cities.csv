@@ -1,0 +1,662 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Jakarta,Jakarta,-6.2146,106.8451,Indonesia,ID,IDN,Jakarta,primary,34540000,1360771077
+Manila,Manila,14.5958,120.9772,Philippines,PH,PHL,Manila,primary,23088000,1608618140
+Bangkok,Bangkok,13.7500,100.5167,Thailand,TH,THA,"Krung Thep Maha Nakhon",primary,17066000,1764068610
+"Ho Chi Minh City","Ho Chi Minh City",10.8167,106.6333,Vietnam,VN,VNM,"Hồ Chí Minh",admin,13312000,1704774326
+"Kuala Lumpur","Kuala Lumpur",3.1478,101.6953,Malaysia,MY,MYS,"Kuala Lumpur",primary,8285000,1458988644
+Hanoi,Hanoi,21.0245,105.8412,Vietnam,VN,VNM,"Hà Nội",primary,7785000,1704413791
+Singapore,Singapore,1.3000,103.8000,Singapore,SG,SGP,"Central Singapore",primary,5745000,1702341327
+Surabaya,Surabaya,-7.2458,112.7378,Indonesia,ID,IDN,"Jawa Timur",admin,4975000,1360484663
+"Quezon City","Quezon City",14.6333,121.0333,Philippines,PH,PHL,Quezon,admin,2936116,1608974097
+Bandung,Bandung,-6.9500,107.5667,Indonesia,ID,IDN,"Jawa Barat",admin,2394873,1360313023
+Bekasi,Bekasi,-6.2333,107.0000,Indonesia,ID,IDN,"Jawa Barat",,2381053,1360006015
+Tangerang,Tangerang,-6.1783,106.6319,Indonesia,ID,IDN,"Jawa Barat",,2237006,1360002844
+Medan,Medan,3.6667,98.6667,Indonesia,ID,IDN,"Sumatera Utara",admin,2210625,1360543171
+"Phnom Penh","Phnom Penh",11.5696,104.9210,Cambodia,KH,KHM,"Phnom Penh",primary,2129371,1116260534
+Haiphong,Haiphong,20.8000,106.6667,Vietnam,VN,VNM,"Hải Phòng",admin,2103500,1704000623
+Makassar,Makassar,-5.1331,119.4136,Indonesia,ID,IDN,"Sulawesi Selatan",admin,1651146,1360051337
+Depok,Depok,-6.3940,106.8225,Indonesia,ID,IDN,"Jawa Barat",,1631951,1360962899
+Davao,Davao,7.0667,125.6000,Philippines,PH,PHL,Davao,admin,1632991,1608906877
+Semarang,Semarang,-6.9667,110.4167,Indonesia,ID,IDN,"Jawa Tengah",admin,1621384,1360745537
+"Caloocan City","Caloocan City",14.6500,120.9667,Philippines,PH,PHL,Caloocan,admin,1583978,1608897690
+Palembang,Palembang,-2.9833,104.7644,Indonesia,ID,IDN,"Sumatera Selatan",admin,1452456,1360902897
+"Cần Thơ","Can Tho",10.0333,105.7833,Vietnam,VN,VNM,"Cần Thơ",admin,1237300,1704783472
+Cilacap,Cilacap,-7.7167,109.0170,Indonesia,ID,IDN,"Jawa Tengah",minor,1174964,1360503809
+"Bandar Lampung","Bandar Lampung",-5.4294,105.2625,Indonesia,ID,IDN,Lampung,admin,1166761,1360243491
+"Biên Hòa","Bien Hoa",10.9575,106.8426,Vietnam,VN,VNM,"Đồng Nai",admin,1104000,1704863046
+Bogor,Bogor,-6.6000,106.8000,Indonesia,ID,IDN,"Jawa Barat",,1030720,1360771925
+Patam,Patam,1.0678,104.0167,Indonesia,ID,IDN,"Kepulauan Riau",,1029808,1360893799
+Vientiane,Vientiane,17.9667,102.6000,Laos,LA,LAO,Viangchan,primary,760000,1418732714
+"Bandar Seri Begawan","Bandar Seri Begawan",4.9167,114.9167,Brunei,BN,BRN,"Brunei and Muara",primary,50000,1096465895
+"Quảng Hà","Quang Ha",16.0600,108.2500,Vietnam,VN,VNM,"Quảng Nam",,1000000,1704966442
+"Cebu City","Cebu City",10.3000,123.9000,Philippines,PH,PHL,Cebu,admin,922611,1608136151
+Padang,Padang,-0.9556,100.3606,Indonesia,ID,IDN,"Sumatera Barat",admin,914970,1360900986
+Klang,Klang,3.0333,101.4500,Malaysia,MY,MYS,Selangor,,878000,1458509635
+Ipoh,Ipoh,4.6000,101.0700,Malaysia,MY,MYS,Perak,admin,866772,1458423505
+"Zamboanga City","Zamboanga City",6.9167,122.0833,Philippines,PH,PHL,Zamboanga,admin,861799,1608189351
+Pekanbaru,Pekanbaru,0.5333,101.4500,Indonesia,ID,IDN,Riau,admin,855221,1360422679
+Denpasar,Denpasar,-8.6667,115.2167,Indonesia,ID,IDN,Bali,admin,834881,1360848527
+Butterworth,Butterworth,5.3942,100.3664,Malaysia,MY,MYS,"Pulau Pinang",,821652,1458469233
+"Taguig City","Taguig City",14.5167,121.0500,Philippines,PH,PHL,Taguig,admin,804915,1608766695
+"Pasig City","Pasig City",14.5750,121.0833,Philippines,PH,PHL,Pasig,admin,755300,1608278212
+Malang,Malang,-7.9800,112.6200,Indonesia,ID,IDN,"Jawa Timur",,780000,1360141408
+Antipolo,Antipolo,14.5842,121.1763,Philippines,PH,PHL,Rizal,admin,776386,1608824345
+Samarinda,Samarinda,-0.5022,117.1536,Indonesia,ID,IDN,"Kalimantan Timur",admin,753370,1360684979
+"George Town","George Town",5.4145,100.3292,Malaysia,MY,MYS,"Pulau Pinang",admin,708127,1458236750
+Banjarmasin,Banjarmasin,-3.3333,114.5833,Indonesia,ID,IDN,"Kalimantan Selatan",admin,692793,1360685223
+"City of Parañaque","City of Paranaque",14.4667,121.0167,Philippines,PH,PHL,Parañaque,admin,665822,1608379532
+Tasikmalaya,Tasikmalaya,-7.3333,108.2000,Indonesia,ID,IDN,"Jawa Barat",,678027,1360027771
+"Cagayan de Oro","Cagayan de Oro",8.4833,124.6500,Philippines,PH,PHL,"Cagayan de Oro",admin,675950,1608831546
+Dasmariñas,Dasmarinas,14.3294,120.9367,Philippines,PH,PHL,Cavite,,659019,1608418544
+"Petaling Jaya","Petaling Jaya",3.1073,101.6067,Malaysia,MY,MYS,Selangor,,638516,1458989343
+Valenzuela,Valenzuela,14.7000,120.9833,Philippines,PH,PHL,Valenzuela,admin,620422,1608492120
+Bacoor,Bacoor,14.4624,120.9645,Philippines,PH,PHL,Cavite,,600609,1608869358
+Pontianak,Pontianak,-0.0206,109.3414,Indonesia,ID,IDN,"Kalimantan Barat",admin,618388,1360992394
+Serang,Serang,-6.1200,106.1503,Indonesia,ID,IDN,Banten,admin,613356,1360329102
+Kuantan,Kuantan,3.8167,103.3333,Malaysia,MY,MYS,Pahang,admin,607778,1458763489
+Jambi,Jambi,-1.5900,103.6100,Indonesia,ID,IDN,Jambi,admin,602187,1360645580
+"Las Piñas City","Las Pinas City",14.4500,120.9833,Philippines,PH,PHL,"Las Piñas",,588894,1608544537
+Cimahi,Cimahi,-6.8833,107.5333,Indonesia,ID,IDN,"Jawa Barat",,586580,1360181436
+Balikpapan,Balikpapan,-1.1489,116.9031,Indonesia,ID,IDN,"Kalimantan Timur",,598043,1360500922
+"General Santos","General Santos",6.1167,125.1667,Philippines,PH,PHL,"General Santos",admin,594446,1608171585
+"Makati City","Makati City",14.5500,121.0333,Philippines,PH,PHL,Makati,admin,582602,1608725647
+"Shah Alam","Shah Alam",3.0833,101.5333,Malaysia,MY,MYS,Selangor,admin,584340,1458194263
+"San Jose del Monte","San Jose del Monte",14.8139,121.0453,Philippines,PH,PHL,Bulacan,,574089,1608850554
+Bacolod,Bacolod,10.6765,122.9509,Philippines,PH,PHL,Bacolod,admin,561875,1608244137
+Surakarta,Surakarta,-7.5667,110.8167,Indonesia,ID,IDN,"Jawa Tengah",,552118,1360853933
+"Bắc Ninh","Bac Ninh",21.1861,106.0763,Vietnam,VN,VNM,"Bắc Ninh",admin,520000,1704025181
+"Hải Dương","Hai Duong",20.9411,106.3331,Vietnam,VN,VNM,"Hải Dương",admin,507469,1704909566
+"Muntinlupa City","Muntinlupa City",14.3833,121.0500,Philippines,PH,PHL,Muntinlupa,admin,504509,1608473406
+"Johor Bahru","Johor Bahru",1.4556,103.7611,Malaysia,MY,MYS,Johor,admin,497097,1458747615
+"Kota Bharu","Kota Bharu",6.1333,102.2500,Malaysia,MY,MYS,Kelantan,admin,491237,1458150101
+Vinh,Vinh,18.6733,105.6922,Vietnam,VN,VNM,"Nghệ An",admin,490000,1704960059
+Manado,Manado,1.4931,124.8413,Indonesia,ID,IDN,"Sulawesi Utara",admin,461636,1360771278
+Huế,Hue,16.4667,107.5833,Vietnam,VN,VNM,"Thừa Thiên-Huế",admin,455230,1704016023
+"Marikina City","Marikina City",14.6500,121.1000,Philippines,PH,PHL,Marikina,admin,450741,1608000077
+"City of Calamba","City of Calamba",14.2167,121.1667,Philippines,PH,PHL,Laguna,,454486,1608985581
+Melaka,Melaka,2.1889,102.2511,Malaysia,MY,MYS,Melaka,admin,455300,1458467506
+Iloilo,Iloilo,10.7167,122.5667,Philippines,PH,PHL,Iloilo,admin,447992,1608875987
+"Kota Kinabalu","Kota Kinabalu",5.9750,116.0725,Malaysia,MY,MYS,Sabah,admin,452058,1458441859
+"Pasay City","Pasay City",14.5500,121.0000,Philippines,PH,PHL,Pasay,admin,416522,1608448280
+Kupang,Kupang,-10.1633,123.5778,Indonesia,ID,IDN,"Nusa Tenggara Timur",admin,433970,1360696757
+Yogyakarta,Yogyakarta,-7.8014,110.3644,Indonesia,ID,IDN,Yogyakarta,admin,422732,1360384833
+"Mandaluyong City","Mandaluyong City",14.5833,121.0333,Philippines,PH,PHL,Mandaluyong,admin,386276,1608166320
+Seremban,Seremban,2.7297,101.9381,Malaysia,MY,MYS,"Negeri Sembilan",admin,419536,1458051507
+"Angeles City","Angeles City",15.1472,120.5847,Philippines,PH,PHL,Angeles,admin,411634,1608036027
+Mataram,Mataram,-8.5833,116.1167,Indonesia,ID,IDN,"Nusa Tenggara Barat",admin,408900,1360021952
+"Lapu-Lapu City","Lapu-Lapu City",10.3150,123.9761,Philippines,PH,PHL,Lapu-Lapu,admin,408112,1608430676
+Jayapura,Jayapura,-2.5333,140.7167,Indonesia,ID,IDN,Papua,admin,413283,1360517692
+Imus,Imus,14.4297,120.9367,Philippines,PH,PHL,Cavite,,403785,1608802508
+Sandakan,Sandakan,5.8388,118.1173,Malaysia,MY,MYS,Sabah,,396290,1458405180
+"Thanh Hóa","Thanh Hoa",19.8075,105.7764,Vietnam,VN,VNM,"Thanh Hóa",admin,393294,1704016079
+"Nha Trang","Nha Trang",12.2500,109.1833,Vietnam,VN,VNM,"Khánh Hòa",admin,392279,1704497901
+Cilegon,Cilegon,-6.0027,106.0112,Indonesia,ID,IDN,Banten,,387543,1360643410
+Malabon,Malabon,14.6625,120.9567,Philippines,PH,PHL,Malabon,admin,365525,1608045841
+Ambon,Ambon,-3.7050,128.1700,Indonesia,ID,IDN,Maluku,admin,372249,1360756802
+"Mandaue City","Mandaue City",10.3333,123.9333,Philippines,PH,PHL,Mandaue,admin,362654,1608794590
+Bengkulu,Bengkulu,-3.7956,102.2592,Indonesia,ID,IDN,Bengkulu,admin,360495,1360191448
+Palu,Palu,-0.8950,119.8594,Indonesia,ID,IDN,"Sulawesi Tengah",admin,359350,1360518272
+"Santa Rosa","Santa Rosa",14.3167,121.1167,Philippines,PH,PHL,Laguna,,353767,1608571683
+"Sungai Petani","Sungai Petani",5.6500,100.4800,Malaysia,MY,MYS,Kedah,,358499,1458639918
+"Nam Định","Nam Dinh",20.4200,106.1683,Vietnam,VN,VNM,"Nam Định",admin,352108,1704906277
+"San Pedro","San Pedro",14.3583,121.0583,Philippines,PH,PHL,Laguna,,325809,1608848483
+"Baguio City","Baguio City",16.4152,120.5956,Philippines,PH,PHL,Baguio,admin,345366,1608164766
+"Tarlac City","Tarlac City",15.4802,120.5979,Philippines,PH,PHL,Tarlac,admin,342493,1608237027
+Iligan,Iligan,8.2333,124.2500,Philippines,PH,PHL,Iligan,admin,342618,1608000268
+"Buôn Ma Thuột","Buon Ma Thuot",12.6667,108.0500,Vietnam,VN,VNM,"Đắk Lắk",admin,340000,1704542086
+Biñan,Binan,14.3333,121.0833,Philippines,PH,PHL,Laguna,,333028,1608039268
+Butuan,Butuan,8.9534,125.5288,Philippines,PH,PHL,Butuan,admin,337063,1608000722
+"Lipa City","Lipa City",13.9411,121.1622,Philippines,PH,PHL,Batangas,,332386,1608615113
+Kendari,Kendari,-3.9675,122.5947,Indonesia,ID,IDN,"Sulawesi Tenggara",admin,331013,1360992102
+"Thái Nguyên","Thai Nguyen",21.6000,105.8500,Vietnam,VN,VNM,"Thái Nguyên",admin,330000,1704613715
+Batangas,Batangas,13.7500,121.0500,Philippines,PH,PHL,Batangas,admin,329874,1608417616
+"Vũng Tàu","Vung Tau",10.4042,107.1417,Vietnam,VN,VNM,"Bà Rịa-Vũng Tàu",admin,327000,1704581438
+Sukabumi,Sukabumi,-6.9197,106.9272,Indonesia,ID,IDN,"Jawa Barat",,320970,1360447543
+Kuching,Kuching,1.5397,110.3542,Malaysia,MY,MYS,Sarawak,admin,325132,1458462262
+"General Trias","General Trias",14.3833,120.8833,Philippines,PH,PHL,Cavite,,314303,1608826995
+Cirebon,Cirebon,-6.7167,108.5667,Indonesia,ID,IDN,"Jawa Barat",,316126,1360011375
+"Cà Mau","Ca Mau",9.1833,105.1500,Vietnam,VN,VNM,"Cà Mau",admin,315270,1704320474
+Cabuyao,Cabuyao,14.2750,121.1250,Philippines,PH,PHL,Laguna,,308745,1608604441
+"Quy Nhơn","Quy Nhon",13.7765,109.2237,Vietnam,VN,VNM,"Bình Định",admin,311000,1704056461
+"San Fernando","San Fernando",15.0333,120.6833,Philippines,PH,PHL,Pampanga,admin,306659,1608862124
+Pekalongan,Pekalongan,-6.8883,109.6753,Indonesia,ID,IDN,"Jawa Tengah",,298386,1360039434
+"Cabanatuan City","Cabanatuan City",15.4833,120.9667,Philippines,PH,PHL,"Nueva Ecija",,302231,1608247694
+Cadiz,Cadiz,10.9587,123.3086,Philippines,PH,PHL,"Negros Occidental",,283157,1608224037
+"Sóc Trăng","Soc Trang",9.6000,105.9719,Vietnam,VN,VNM,"Sóc Trăng",admin,300000,1704758756
+Cotabato,Cotabato,7.2167,124.2500,Philippines,PH,PHL,Cotabato,admin,299438,1608753128
+Jember,Jember,-8.1727,113.6873,Indonesia,ID,IDN,"Jawa Timur",minor,298585,1360316553
+Navotas,Navotas,14.6667,120.9417,Philippines,PH,PHL,Navotas,admin,249463,1608538447
+Tegal,Tegal,-6.8667,109.1333,Indonesia,ID,IDN,"Jawa Tengah",,275789,1360035814
+Pematangsiantar,Pematangsiantar,2.9600,99.0600,Indonesia,ID,IDN,"Sumatera Utara",,278055,1360769496
+"Long Xuyên","Long Xuyen",10.3686,105.4234,Vietnam,VN,VNM,"An Giang",admin,278658,1704453892
+"Việt Trì","Viet Tri",21.3228,105.4019,Vietnam,VN,VNM,"Phú Thọ",admin,277539,1704332956
+Sorong,Sorong,-0.8667,131.2500,Indonesia,ID,IDN,"Papua Barat",,272349,1360018780
+Majene,Majene,-3.5336,118.9660,Indonesia,ID,IDN,"Sulawesi Barat",minor,272377,1360498576
+"Thái Bình","Thai Binh",20.4461,106.3422,Vietnam,VN,VNM,"Thái Bình",admin,268167,1704716027
+Binjai,Binjai,3.6000,98.4853,Indonesia,ID,IDN,"Sumatera Utara",,269053,1360884608
+Lucena,Lucena,13.9333,121.6167,Philippines,PH,PHL,Lucena,admin,266248,1608000461
+"San Pablo","San Pablo",14.0667,121.3167,Philippines,PH,PHL,Laguna,,266068,1608801564
+Dumai,Dumai,1.6667,101.4500,Indonesia,ID,IDN,Riau,,264084,1360153292
+Nonthaburi,Nonthaburi,13.8667,100.5167,Thailand,TH,THA,Nonthaburi,admin,255671,1764667935
+"Quảng Ngãi","Quang Ngai",15.1206,108.7922,Vietnam,VN,VNM,"Quảng Ngãi",admin,260252,1704029499
+Tagum,Tagum,7.4478,125.8078,Philippines,PH,PHL,"Davao del Norte",admin,259444,1608755366
+"Ấp Đa Lợi","Ap Da Loi",11.9304,108.4200,Vietnam,VN,VNM,"Lâm Đồng",,256019,1704613422
+Kediri,Kediri,-7.8166,112.0119,Indonesia,ID,IDN,"Jawa Timur",,252000,1360498846
+Malolos,Malolos,14.8433,120.8114,Philippines,PH,PHL,Bulacan,admin,252074,1608358783
+"Kuala Terengganu","Kuala Terengganu",5.3303,103.1408,Malaysia,MY,MYS,Terengganu,admin,255109,1458475563
+"Puerto Princesa","Puerto Princesa",9.7500,118.7500,Philippines,PH,PHL,"Puerto Princesa",admin,255116,1608455700
+"Rạch Giá","Rach Gia",10.0125,105.0808,Vietnam,VN,VNM,"Kiến Giang",admin,250660,1704872008
+Mabalacat,Mabalacat,15.2167,120.5833,Philippines,PH,PHL,Pampanga,,250799,1608402560
+Palangkaraya,Palangkaraya,-2.2100,113.9200,Indonesia,ID,IDN,"Kalimantan Tengah",admin,249434,1360268553
+"Thủ Dầu Một","Thu Dau Mot",11.0042,106.6583,Vietnam,VN,VNM,"Bình Dương",admin,244277,1704890399
+Sibu,Sibu,2.3000,111.8167,Malaysia,MY,MYS,Sarawak,,247995,1458970454
+"Tuy Hòa","Tuy Hoa",13.0875,109.3106,Vietnam,VN,VNM,"Phú Yên",admin,242840,1704697424
+Tacloban,Tacloban,11.2444,125.0039,Philippines,PH,PHL,Tacloban,admin,242089,1608710592
+"Banda Aceh","Banda Aceh",5.5500,95.3175,Indonesia,ID,IDN,Aceh,admin,235305,1360353144
+Taiping,Taiping,4.8500,100.7333,Malaysia,MY,MYS,Perak,,237095,1458446120
+Singaraja,Singaraja,-8.1152,115.0944,Indonesia,ID,IDN,Bali,minor,234468,1360426282
+Miri,Miri,4.4028,113.9933,Malaysia,MY,MYS,Sarawak,,234541,1458079883
+Olongapo,Olongapo,14.8333,120.2833,Philippines,PH,PHL,Olongapo,admin,233040,1608001640
+Talisay,Talisay,10.2500,123.8333,Philippines,PH,PHL,Cebu,,227645,1608040297
+Singkawang,Singkawang,0.9000,108.9833,Indonesia,ID,IDN,"Kalimantan Barat",,230376,1360906363
+Probolinggo,Probolinggo,-7.7500,113.2167,Indonesia,ID,IDN,"Jawa Timur",,223159,1360138476
+"Bạc Liêu","Bac Lieu",9.2833,105.7167,Vietnam,VN,VNM,"Bạc Liêu",admin,225000,1704298745
+Padangsidempuan,Padangsidempuan,1.3667,99.2667,Indonesia,ID,IDN,"Sumatera Utara",,225544,1360506609
+Bitung,Bitung,1.4472,125.1978,Indonesia,ID,IDN,"Sulawesi Utara",,218520,1360695939
+"Alor Setar","Alor Setar",6.1167,100.3667,Malaysia,MY,MYS,Kedah,admin,217000,1458273978
+Banjarbaru,Banjarbaru,-3.4667,114.7500,Indonesia,ID,IDN,"Kalimantan Selatan",,216600,1360085654
+"Sa Đéc","Sa Dec",10.3105,105.7397,Vietnam,VN,VNM,"Đồng Tháp",minor,213610,1704983576
+Meycauayan,Meycauayan,14.7333,120.9500,Philippines,PH,PHL,Bulacan,,209083,1608553352
+Ormoc,Ormoc,11.0167,124.6167,Philippines,PH,PHL,Ormoc,admin,215031,1608269612
+"Bukit Mertajam","Bukit Mertajam",5.3617,100.4610,Malaysia,MY,MYS,"Pulau Pinang",,210000,1458619046
+Lubuklinggau,Lubuklinggau,-3.2967,102.8617,Indonesia,ID,IDN,"Sumatera Selatan",,208225,1360359449
+"Phan Thiết","Phan Thiet",10.9375,108.1583,Vietnam,VN,VNM,"Bình Thuận",admin,205333,1704221456
+Ternate,Ternate,0.7833,127.3667,Indonesia,ID,IDN,"Maluku Utara",,204215,1360041663
+"Marawi City","Marawi City",8.0000,124.3000,Philippines,PH,PHL,"Lanao del Sur",admin,201785,1608812117
+Tanjungpinang,Tanjungpinang,0.9188,104.4554,Indonesia,ID,IDN,"Kepulauan Riau",admin,203008,1360990589
+Tarakan,Tarakan,3.3000,117.6333,Indonesia,ID,IDN,"Kalimantan Utara",,201635,1360080072
+"Lahad Datu","Lahad Datu",5.0300,118.3400,Malaysia,MY,MYS,Sabah,,199830,1458472057
+Pagadian,Pagadian,7.8333,123.4333,Philippines,PH,PHL,"Zamboanga del Sur",admin,199060,1608329397
+Martapura,Martapura,-3.4135,114.8365,Indonesia,ID,IDN,"Kalimantan Selatan",minor,198239,1360139854
+"Naga City","Naga City",13.6167,123.1667,Philippines,PH,PHL,Naga,admin,196003,1608775993
+"Legazpi City","Legazpi City",13.1333,123.7333,Philippines,PH,PHL,Albay,admin,196639,1608693683
+Gorontalo,Gorontalo,0.5411,123.0594,Indonesia,ID,IDN,Gorontalo,admin,191897,1360408580
+Muar,Muar,2.0500,102.5600,Malaysia,MY,MYS,Johor,,191346,1458170112
+Valencia,Valencia,7.9000,125.0833,Philippines,PH,PHL,Bukidnon,,192993,1608418474
+Madiun,Madiun,-7.6300,111.5231,Indonesia,ID,IDN,"Jawa Timur",,186099,1360921516
+Pasuruan,Pasuruan,-7.6406,112.9065,Indonesia,ID,IDN,"Jawa Timur",,186262,1360084806
+Batu,Batu,-7.8672,112.5239,Indonesia,ID,IDN,"Jawa Timur",,190184,1360427259
+"Sơn Tây","Son Tay",21.1382,105.5050,Vietnam,VN,VNM,"Hà Nội",minor,189547,1704714941
+"San Carlos City","San Carlos City",15.9281,120.3489,Philippines,PH,PHL,Pangasinan,,188571,1608542323
+"Pak Kret","Pak Kret",13.9125,100.4978,Thailand,TH,THA,Nonthaburi,minor,184501,1764165203
+Prabumulih,Prabumulih,-3.4328,104.2356,Indonesia,ID,IDN,"Sumatera Selatan",minor,188082,1360148993
+Panabo,Panabo,7.3000,125.6833,Philippines,PH,PHL,"Davao del Norte",,184599,1608577408
+Banjar,Banjar,-7.3667,108.5333,Indonesia,ID,IDN,"Jawa Barat",minor,182819,1360289512
+"Calbayog City","Calbayog City",12.0667,124.6000,Philippines,PH,PHL,Samar,,183851,1608088739
+Pinrang,Pinrang,-3.7857,119.6522,Indonesia,ID,IDN,"Sulawesi Selatan",minor,182731,1360941841
+Kabankalan,Kabankalan,9.9833,122.8167,Philippines,PH,PHL,"Negros Occidental",,181977,1608697923
+"Santo Tomas","Santo Tomas",14.0833,121.1833,Philippines,PH,PHL,Batangas,,179844,1608845898
+"Phan Rang-Tháp Chàm","Phan Rang-Thap Cham",11.5643,108.9886,Vietnam,VN,VNM,"Ninh Thuận",admin,179773,1704094609
+Lhokseumawe,Lhokseumawe,5.1800,97.1506,Indonesia,ID,IDN,Aceh,,180200,1360418625
+Palopo,Palopo,-3.0000,120.2000,Indonesia,ID,IDN,"Sulawesi Selatan",,180130,1360740288
+Langsa,Langsa,4.4667,97.9500,Indonesia,ID,IDN,Aceh,,178334,1360337304
+"Dagupan City","Dagupan City",16.0333,120.3333,Philippines,PH,PHL,Dagupan,admin,171271,1608530964
+Koronadal,Koronadal,6.5000,124.8500,Philippines,PH,PHL,"South Cotabato",,174942,1608000651
+Tebingtinggi,Tebingtinggi,3.3283,99.1625,Indonesia,ID,IDN,"Sumatera Utara",,169786,1360386781
+Tanauan,Tanauan,14.0833,121.1500,Philippines,PH,PHL,Batangas,,173366,1608053818
+Malaybalay,Malaybalay,8.1575,125.1278,Philippines,PH,PHL,Bukidnon,admin,174625,1608859265
+"Hạ Long","Ha Long",20.9500,107.0833,Vietnam,VN,VNM,"Quảng Ninh",admin,172915,1704379547
+Banyuwangi,Banyuwangi,-8.1950,114.3696,Indonesia,ID,IDN,"Jawa Timur",minor,172424,1360008480
+Bago,Bago,10.5388,122.8384,Philippines,PH,PHL,"Negros Occidental",,170981,1608943172
+Toledo,Toledo,10.3833,123.6500,Philippines,PH,PHL,Cebu,,170335,1608665464
+Kluang,Kluang,2.0383,103.3179,Malaysia,MY,MYS,Johor,,169828,1458692921
+Digos,Digos,6.7500,125.3500,Philippines,PH,PHL,"Davao del Sur",admin,169393,1608635653
+"Roxas City","Roxas City",11.5833,122.7500,Philippines,PH,PHL,Capiz,admin,167003,1608344583
+Sorsogon,Sorsogon,12.9667,124.0000,Philippines,PH,PHL,Sorsogon,admin,168110,1608265953
+Tanjungbalai,Tanjungbalai,2.9667,99.8000,Indonesia,ID,IDN,"Sumatera Utara",,165763,1360992709
+"Hà Tĩnh","Ha Tinh",18.3428,105.9058,Vietnam,VN,VNM,"Hà Tĩnh",admin,165396,1704544061
+Metro,Metro,-5.1167,105.3000,Indonesia,ID,IDN,Lampung,,161799,1360659228
+Bontang,Bontang,0.1333,117.5000,Indonesia,ID,IDN,"Kalimantan Timur",,161413,1360692406
+"Đồng Hới","Dong Hoi",17.4833,106.6000,Vietnam,VN,VNM,"Quảng Bình",admin,160325,1704323043
+"Trece Martires City","Trece Martires City",14.2833,120.8667,Philippines,PH,PHL,Cavite,admin,155713,1608990723
+"Hat Yai","Hat Yai",7.0167,100.4667,Thailand,TH,THA,Songkhla,minor,159130,1764161022
+"Châu Đốc","Chau Doc",10.7000,105.1167,Vietnam,VN,VNM,"An Giang",,157298,1704020910
+"Cẩm Phả","Cam Pha",21.0071,107.2845,Vietnam,VN,VNM,"Quảng Ninh",minor,156000,1704985016
+Surigao,Surigao,9.7833,125.4833,Philippines,PH,PHL,"Surigao del Norte",admin,154137,1608611556
+Tuguegarao,Tuguegarao,17.6167,121.7167,Philippines,PH,PHL,Cagayan,admin,153502,1608110634
+Baubau,Baubau,-5.4667,122.6330,Indonesia,ID,IDN,"Sulawesi Tenggara",,152143,1360789994
+Bintulu,Bintulu,3.1700,113.0300,Malaysia,MY,MYS,Sarawak,,151617,1458164361
+"Siem Reap","Siem Reap",13.3622,103.8597,Cambodia,KH,KHM,"Siem Reap",admin,147866,1116263015
+"Cao Lãnh","Cao Lanh",10.4603,105.6331,Vietnam,VN,VNM,"Đồng Tháp",admin,149837,1704276832
+"Lạng Sơn","Lang Son",21.8478,106.7578,Vietnam,VN,VNM,"Lạng Sơn",admin,148000,1704004349
+"Cam Ranh","Cam Ranh",11.9020,109.2207,Vietnam,VN,VNM,"Khánh Hòa",,146771,1704104189
+Sagay,Sagay,10.9000,123.4167,Philippines,PH,PHL,"Negros Occidental",,146264,1608284971
+"San Juan","San Juan",14.6000,121.0333,Philippines,PH,PHL,"San Juan",admin,122180,1608817515
+Ilagan,Ilagan,17.1333,121.8833,Philippines,PH,PHL,Isabela,admin,145568,1608190610
+Pleiku,Pleiku,13.9833,108.0000,Vietnam,VN,VNM,"Gia Lai",admin,142900,1704220080
+"Ozamiz City","Ozamiz City",8.1500,123.8500,Philippines,PH,PHL,"Misamis Occidental",,141828,1608100412
+Mati,Mati,6.9500,126.2333,Philippines,PH,PHL,"Davao Oriental",admin,141141,1608000731
+"Batu Pahat","Batu Pahat",1.8500,102.9300,Malaysia,MY,MYS,Johor,,140000,1458310769
+Kidapawan,Kidapawan,7.0083,125.0894,Philippines,PH,PHL,Cotabato,admin,140195,1608883158
+"San Jose","San Jose",15.7833,121.0000,Philippines,PH,PHL,"Nueva Ecija",,139738,1608000478
+"Tân An","Tan An",10.5322,106.4042,Vietnam,VN,VNM,"Long An",admin,137498,1704199290
+Mojokerto,Mojokerto,-7.4722,112.4336,Indonesia,ID,IDN,"Jawa Timur",,130196,1360053101
+Gunungsitoli,Gunungsitoli,1.1167,97.5667,Indonesia,ID,IDN,"Sumatera Utara",minor,137104,1360175198
+Danao,Danao,10.5333,123.9333,Philippines,PH,PHL,Cebu,,136471,1608547808
+Bima,Bima,-8.4667,118.7170,Indonesia,ID,IDN,"Nusa Tenggara Barat",,136492,1360521866
+Pageralam,Pageralam,-4.0217,103.2522,Indonesia,ID,IDN,"Sumatera Selatan",minor,136244,1360027360
+Blitar,Blitar,-8.1000,112.1500,Indonesia,ID,IDN,"Jawa Timur",,132018,1360011677
+"Chiang Mai","Chiang Mai",18.7889,98.9833,Thailand,TH,THA,"Chiang Mai",admin,132634,1764662886
+Santiago,Santiago,16.6833,121.5500,Philippines,PH,PHL,Santiago,admin,134830,1608477470
+"Dumaguete City","Dumaguete City",9.3103,123.3081,Philippines,PH,PHL,"Negros Oriental",admin,131377,1608682936
+Tabaco,Tabaco,13.3500,123.7333,Philippines,PH,PHL,Albay,,133868,1608252596
+"Nakhon Ratchasima","Nakhon Ratchasima",14.9736,102.0831,Thailand,TH,THA,"Nakhon Ratchasima",admin,134440,1764752197
+Calapan,Calapan,13.3667,121.2000,Philippines,PH,PHL,"Oriental Mindoro",admin,133893,1608578259
+Urdaneta,Urdaneta,15.9761,120.5711,Philippines,PH,PHL,Pangasinan,,132940,1608117383
+Battambang,Battambang,13.1000,103.2000,Cambodia,KH,KHM,Battambang,admin,130000,1116106237
+"Trà Vinh","Tra Vinh",9.9369,106.3411,Vietnam,VN,VNM,"Trà Vinh",admin,131360,1704929966
+"Ninh Bình","Ninh Binh",20.2539,105.9750,Vietnam,VN,VNM,"Ninh Bình",admin,130517,1704442748
+"San Carlos","San Carlos",10.4929,123.4095,Philippines,PH,PHL,"Negros Occidental",,132536,1608048026
+Dipolog,Dipolog,8.5667,123.3333,Philippines,PH,PHL,"Zamboanga del Norte",admin,130759,1608664300
+"Surat Thani","Surat Thani",9.1397,99.3306,Thailand,TH,THA,"Surat Thani",admin,130703,1764338230
+Parepare,Parepare,-4.0167,119.6236,Indonesia,ID,IDN,"Sulawesi Selatan",,129542,1360021476
+"Udon Thani","Udon Thani",17.4164,102.7500,Thailand,TH,THA,"Udon Thani",admin,130274,1764676047
+Calabayan,Calabayan,16.7667,121.7833,Philippines,PH,PHL,Isabela,,129523,1608955576
+"Mỹ Tho","My Tho",10.3500,106.3500,Vietnam,VN,VNM,"Tiền Giang",admin,124143,1704000376
+Silay,Silay,10.8000,122.9667,Philippines,PH,PHL,"Negros Occidental",,126930,1608362038
+"Tây Ninh","Tay Ninh",11.3131,106.0963,Vietnam,VN,VNM,"Tây Ninh",admin,126370,1704250951
+Payakumbuh,Payakumbuh,-0.2244,100.6325,Indonesia,ID,IDN,"Sumatera Barat",,125608,1360091636
+Pangkalpinang,Pangkalpinang,-2.1000,106.1000,Indonesia,ID,IDN,"Kepulauan Bangka Belitung",admin,125933,1360901919
+Magelang,Magelang,-7.4706,110.2178,Indonesia,ID,IDN,"Jawa Tengah",,124912,1360065728
+"Kampong Cham","Kampong Cham",12.0000,105.4500,Cambodia,KH,KHM,"Kampong Cham",admin,118242,1116115849
+"Cam Ranh","Cam Ranh",11.9136,109.1369,Vietnam,VN,VNM,"Khánh Hòa",minor,125311,1704516746
+Gingoog,Gingoog,8.8167,125.1000,Philippines,PH,PHL,"Misamis Oriental",,124648,1608630986
+Savannakhet,Savannakhet,16.5500,104.7500,Laos,LA,LAO,Savannakhét,admin,124000,1418179232
+Indramayu,Indramayu,-6.3356,108.3190,Indonesia,ID,IDN,"Jawa Barat",minor,123263,1360004807
+"Hội An","Hoi An",15.8733,108.3327,Vietnam,VN,VNM,"Quảng Nam",,121716,1704897050
+Pati,Pati,-6.7415,111.0347,Indonesia,ID,IDN,"Jawa Tengah",minor,122785,1360407556
+"San Fernando","San Fernando",16.6167,120.3167,Philippines,PH,PHL,"La Union",admin,121812,1608635527
+Kotamobagu,Kotamobagu,0.7333,124.3167,Indonesia,ID,IDN,"Sulawesi Utara",,120597,1360015626
+"Hòa Bình","Hoa Binh",20.8172,105.3375,Vietnam,VN,VNM,"Hòa Bình",admin,121309,1704237072
+Pakxé,Pakxe,15.1167,105.7833,Laos,LA,LAO,Champasak,admin,119848,1418863956
+Carcar,Carcar,10.1167,123.6333,Philippines,PH,PHL,Cebu,,119664,1608778175
+Bayawan,Bayawan,9.3667,122.8000,Philippines,PH,PHL,"Negros Oriental",,117900,1608189345
+Naga,Naga,10.2167,123.7500,Philippines,PH,PHL,Cebu,,115750,1608928299
+Phatthaya,Phatthaya,12.9496,100.8930,Thailand,TH,THA,"Chon Buri",,115840,1764492695
+"Khon Kaen","Khon Kaen",16.4297,102.8297,Thailand,TH,THA,"Khon Kaen",admin,115928,1764003406
+Tawau,Tawau,4.2981,117.8831,Malaysia,MY,MYS,Sabah,,113809,1458745722
+Bukittinggi,Bukittinggi,-0.3097,100.3753,Indonesia,ID,IDN,"Sumatera Barat",,113326,1360552560
+"City of Isabela","City of Isabela",6.7000,121.9667,Philippines,PH,PHL,Basilan,admin,112788,1608621038
+"Iriga City","Iriga City",13.4167,123.4167,Philippines,PH,PHL,"Camarines Sur",,111757,1608112592
+"Cavite City","Cavite City",14.4833,120.9000,Philippines,PH,PHL,Cavite,,102806,1608639398
+Laoag,Laoag,18.2000,120.6000,Philippines,PH,PHL,"Ilocos Norte",admin,111125,1608043510
+Ligao,Ligao,13.2167,123.5167,Philippines,PH,PHL,Albay,,111399,1608907106
+Gapan,Gapan,15.3075,120.9453,Philippines,PH,PHL,"Nueva Ecija",,110303,1608386821
+Tabuk,Tabuk,17.4500,121.4583,Philippines,PH,PHL,Kalinga,,110642,1608831439
+Baybay,Baybay,10.6833,124.8000,Philippines,PH,PHL,Leyte,,109432,1608960920
+"Tagbilaran City","Tagbilaran City",9.6500,123.8500,Philippines,PH,PHL,Bohol,minor,105051,1608573250
+Himamaylan,Himamaylan,10.1000,122.8667,Philippines,PH,PHL,"Negros Occidental",,106880,1608765297
+"Nakhon Si Thammarat","Nakhon Si Thammarat",8.4333,99.9667,Thailand,TH,THA,"Nakhon Si Thammarat",admin,106322,1764409111
+Raba,Raba,-8.4614,118.7470,Indonesia,ID,IDN,"Nusa Tenggara Barat",minor,106101,1360014952
+"Vĩnh Long","Vinh Long",10.2550,105.9753,Vietnam,VN,VNM,"Vĩnh Long",admin,103314,1704262419
+Maumere,Maumere,-8.6189,122.2123,Indonesia,ID,IDN,"Nusa Tenggara Timur",minor,104285,1360776014
+Samal,Samal,7.0500,125.7333,Philippines,PH,PHL,"Davao del Norte",,104123,1608425228
+Catbalogan,Catbalogan,11.7833,124.8833,Philippines,PH,PHL,Samar,admin,103879,1608878798
+Biak,Biak,-1.1615,136.0485,Indonesia,ID,IDN,Papua,minor,103610,1360911386
+Bayugan,Bayugan,8.7143,125.7481,Philippines,PH,PHL,"Agusan del Sur",,103202,1608483872
+Talisay,Talisay,10.7333,122.9667,Philippines,PH,PHL,"Negros Occidental",,102214,1608509888
+"Teluk Intan","Teluk Intan",4.0333,101.0167,Malaysia,MY,MYS,Perak,,101659,1458126062
+"Sungai Penuh","Sungai Penuh",-2.0636,101.3961,Indonesia,ID,IDN,Jambi,,101325,1360337679
+"Yên Bái","Yen Bai",21.7000,104.8667,Vietnam,VN,VNM,"Yên Bái",admin,96540,1704249231
+"Vị Thanh","Vi Thanh",9.7833,105.4708,Vietnam,VN,VNM,"Hậu Giang",admin,97200,1704210026
+Sibolga,Sibolga,1.7425,98.7792,Indonesia,ID,IDN,"Sumatera Utara",,94971,1360021193
+Balanga,Balanga,14.6833,120.5333,Philippines,PH,PHL,Bataan,admin,96061,1608467104
+Masbate,Masbate,12.3667,123.6167,Philippines,PH,PHL,Masbate,admin,95389,1608802236
+"Nakhon Sawan","Nakhon Sawan",15.7133,100.1353,Thailand,TH,THA,"Nakhon Sawan",admin,86439,1764821078
+Maasin,Maasin,10.1333,124.8500,Philippines,PH,PHL,"Southern Leyte",admin,85560,1608244406
+Cukai,Cukai,4.2332,103.4479,Malaysia,MY,MYS,Terengganu,,82425,1458033606
+Phuket,Phuket,7.8881,98.3975,Thailand,TH,THA,Phuket,admin,77610,1764327831
+"Ban Talat Rangsit","Ban Talat Rangsit",13.9870,100.6095,Thailand,TH,THA,"Pathum Thani",,79319,1764039814
+"Nakhon Pathom","Nakhon Pathom",13.8194,100.0581,Thailand,TH,THA,"Nakhon Pathom",admin,78780,1764251992
+"Ubon Ratchathani","Ubon Ratchathani",15.2281,104.8594,Thailand,TH,THA,"Ubon Ratchathani",admin,79023,1764611048
+"Quảng Trị","Quang Tri",16.7504,107.2000,Vietnam,VN,VNM,"Quảng Trị",,72722,1704089491
+"Prey Veng","Prey Veng",11.4840,105.3240,Cambodia,KH,KHM,"Prey Veng",admin,74000,1116378797
+Manokwari,Manokwari,-0.8711,134.0693,Indonesia,ID,IDN,"Papua Barat",admin,74504,1360451991
+Cabadbaran,Cabadbaran,9.1228,125.5346,Philippines,PH,PHL,"Agusan del Norte",admin,73639,1608889253
+Phitsanulok,Phitsanulok,16.8158,100.2636,Thailand,TH,THA,Phitsanulok,admin,70871,1764140981
+Oroquieta,Oroquieta,8.4833,123.8000,Philippines,PH,PHL,"Misamis Occidental",admin,70757,1608239509
+"Chiang Rai","Chiang Rai",19.9094,99.8275,Thailand,TH,THA,"Chiang Rai",admin,70610,1764748484
+Thakhèk,Thakhek,17.4000,104.8000,Laos,LA,LAO,Khammouan,admin,70000,1418367677
+Putrajaya,Putrajaya,2.9140,101.7019,Malaysia,MY,MYS,Putrajaya,admin,67964,1458000206
+Borongan,Borongan,11.6000,125.4333,Philippines,PH,PHL,"Eastern Samar",admin,69297,1608990192
+"Lào Cai","Lao Cai",22.4194,103.9950,Vietnam,VN,VNM,"Lào Cai",admin,67206,1704290986
+Songkhla,Songkhla,7.2061,100.5967,Thailand,TH,THA,Songkhla,admin,63834,1764543650
+Kratie,Kratie,12.4881,106.0188,Cambodia,KH,KHM,Kratie,admin,60000,1116453792
+Saraburi,Saraburi,14.5286,100.9114,Thailand,TH,THA,"Sara Buri",admin,61750,1764111243
+Rayong,Rayong,12.6742,101.2789,Thailand,TH,THA,Rayong,admin,61902,1764920057
+Yala,Yala,6.5397,101.2811,Thailand,TH,THA,Yala,admin,61250,1764430323
+"Samut Sakhon","Samut Sakhon",13.5486,100.2775,Thailand,TH,THA,"Samut Sakhon",admin,60103,1764502057
+"Bến Tre","Ben Tre",10.2333,106.3833,Vietnam,VN,VNM,"Bến Tre",admin,59442,1704108909
+Trang,Trang,7.5561,99.6114,Thailand,TH,THA,Trang,admin,60591,1764343817
+"Ban Bang Kaeo","Ban Bang Kaeo",13.6371,100.6636,Thailand,TH,THA,"Samut Prakan",,56949,1764813354
+"Samut Prakan","Samut Prakan",13.6004,100.5964,Thailand,TH,THA,"Samut Prakan",admin,51309,1764159228
+"Bắc Giang","Bac Giang",21.2731,106.1947,Vietnam,VN,VNM,"Bắc Giang",admin,53728,1704256754
+Tandag,Tandag,9.0667,126.1833,Philippines,PH,PHL,"Surigao del Sur",admin,56364,1608155856
+"Phra Nakhon Si Ayutthaya","Phra Nakhon Si Ayutthaya",14.3550,100.5650,Thailand,TH,THA,"Phra Nakhon Si Ayutthaya",admin,52952,1764002329
+Vigan,Vigan,17.5747,120.3869,Philippines,PH,PHL,"Ilocos Sur",admin,53879,1608368724
+Lampang,Lampang,18.3000,99.5000,Thailand,TH,THA,Lampang,admin,55044,1764081847
+Padangpanjang,Padangpanjang,-0.4500,100.4167,Indonesia,ID,IDN,"Sumatera Barat",,52422,1360231049
+"Prachuap Khiri Khan","Prachuap Khiri Khan",11.8067,99.7956,Thailand,TH,THA,"Prachuap Khiri Khan",admin,54018,1764877766
+Louangphabang,Louangphabang,19.8931,102.1381,Laos,LA,LAO,Louangphabang,admin,53792,1418530759
+"Sakon Nakhon","Sakon Nakhon",17.1564,104.1456,Thailand,TH,THA,"Sakon Nakhon",admin,53618,1764476362
+Pursat,Pursat,12.5337,103.9167,Cambodia,KH,KHM,Pursat,admin,52476,1116566865
+"Maha Sarakham","Maha Sarakham",16.1772,103.3008,Thailand,TH,THA,"Maha Sarakham",admin,52866,1764568961
+Takeo,Takeo,10.9833,104.7833,Cambodia,KH,KHM,Takeo,admin,52000,1116674518
+"Bang Bua Thong","Bang Bua Thong",13.9099,100.4263,Thailand,TH,THA,Nonthaburi,minor,50141,1764694888
+Sisophon,Sisophon,13.5833,102.9833,Cambodia,KH,KHM,"Banteay Meanchey",admin,50302,1116276411
+Kangar,Kangar,6.4414,100.1986,Malaysia,MY,MYS,Perlis,admin,48898,1458939333
+"Nong Khai","Nong Khai",17.8842,102.7467,Thailand,TH,THA,"Nong Khai",admin,48274,1764279113
+"Bang Kruai","Bang Kruai",13.8042,100.4755,Thailand,TH,THA,Nonthaburi,minor,42390,1764357378
+Pattani,Pattani,6.8664,101.2508,Thailand,TH,THA,Pattani,admin,44234,1764277891
+"Kampong Chhnang","Kampong Chhnang",12.2500,104.6667,Cambodia,KH,KHM,"Kampong Chhnang",admin,41700,1116735270
+"Si Sa Ket","Si Sa Ket",15.1069,104.3294,Thailand,TH,THA,Sisaket,admin,42405,1764002764
+Kampot,Kampot,10.6000,104.1667,Cambodia,KH,KHM,Kampot,admin,39186,1116966757
+"Cao Bằng","Cao Bang",22.6731,106.2500,Vietnam,VN,VNM,"Cao Bằng",admin,41112,1704552735
+Narathiwat,Narathiwat,6.4264,101.8231,Thailand,TH,THA,Narathiwat,admin,41342,1764748532
+"Palayan City","Palayan City",15.5333,121.0833,Philippines,PH,PHL,"Nueva Ecija",admin,41041,1608192136
+"Ban Sai Ma Tai","Ban Sai Ma Tai",13.8444,100.4829,Thailand,TH,THA,Nonthaburi,,30750,1764698508
+Chachoengsao,Chachoengsao,13.6903,101.0703,Thailand,TH,THA,Chachoengsao,admin,39570,1764632382
+Surin,Surin,14.8833,103.4931,Thailand,TH,THA,Surin,admin,39728,1764813179
+"Xam Nua","Xam Nua",20.4133,104.0480,Laos,LA,LAO,Houaphan,admin,38992,1418975079
+"Hà Giang","Ha Giang",22.8233,104.9836,Vietnam,VN,VNM,"Hà Giang",admin,38362,1704495953
+"Tuyên Quang","Tuyen Quang",21.8281,105.2156,Vietnam,VN,VNM,"Tuyên Quang",admin,36430,1704662313
+Chaiyaphum,Chaiyaphum,15.8056,102.0311,Thailand,TH,THA,Chaiyaphum,admin,36923,1764784757
+Ratchaburi,Ratchaburi,13.5367,99.8169,Thailand,TH,THA,Ratchaburi,admin,36339,1764773366
+"Krong Kep","Krong Kep",10.4828,104.3167,Cambodia,KH,KHM,Kep,admin,35990,1116392544
+"Roi Et","Roi Et",16.0578,103.6514,Thailand,TH,THA,"Roi Et",admin,35219,1764216668
+Phatthalung,Phatthalung,7.6178,100.0778,Thailand,TH,THA,Phatthalung,admin,35039,1764240863
+"Kampong Thom","Kampong Thom",12.7111,104.8886,Cambodia,KH,KHM,"Kampong Thom",admin,31871,1116471297
+Kalasin,Kalasin,16.4333,103.5000,Thailand,TH,THA,Kalasin,admin,34437,1764060973
+Uttaradit,Uttaradit,17.6256,100.0942,Thailand,TH,THA,Uttaradit,admin,33930,1764146253
+"Kampong Speu","Kampong Speu",11.4500,104.5333,Cambodia,KH,KHM,"Kampong Speu",admin,33231,1116446492
+Chumphon,Chumphon,10.4939,99.1800,Thailand,TH,THA,Chumphon,admin,33516,1764012939
+"Koh Kong","Koh Kong",11.6167,102.9833,Cambodia,KH,KHM,"Koh Kong",admin,33134,1116924669
+Mukdahan,Mukdahan,16.5431,104.7228,Thailand,TH,THA,Mukdahan,admin,33102,1764994534
+"Ban Bang Krang","Ban Bang Krang",13.8442,100.4612,Thailand,TH,THA,Nonthaburi,,23010,1764797592
+"Chon Buri","Chon Buri",13.3611,100.9850,Thailand,TH,THA,"Chon Buri",admin,29961,1764202077
+"Kuala Belait","Kuala Belait",4.5833,114.1833,Brunei,BN,BRN,Belait,admin,30267,1096999548
+Krabi,Krabi,8.0592,98.9189,Thailand,TH,THA,Krabi,admin,30499,1764587855
+"Stung Treng","Stung Treng",13.5167,105.9667,Cambodia,KH,KHM,"Stung Treng",admin,29665,1116286673
+"Ban Krathum Lom","Ban Krathum Lom",13.7482,100.3139,Thailand,TH,THA,"Samut Sakhon",,24237,1764120004
+Kanchanaburi,Kanchanaburi,14.0194,99.5311,Thailand,TH,THA,Kanchanaburi,admin,29581,1764455558
+"Bắc Kạn","Bac Kan",22.1333,105.8333,Vietnam,VN,VNM,"Bắc Kạn",admin,29227,1704000217
+"Kamphaeng Phet","Kamphaeng Phet",16.4811,99.5222,Thailand,TH,THA,"Kamphaeng Phet",admin,29178,1764367755
+"Samut Songkhram","Samut Songkhram",13.4097,100.0017,Thailand,TH,THA,"Samut Songkhram",admin,28493,1764305010
+"Buri Ram","Buri Ram",14.9942,103.1022,Thailand,TH,THA,Buriram,admin,28613,1764141031
+"Nakhon Phanom","Nakhon Phanom",17.4069,104.7808,Thailand,TH,THA,"Nakhon Phanom",admin,26437,1764103547
+"Suphan Buri","Suphan Buri",14.4675,100.1169,Thailand,TH,THA,"Suphan Buri",admin,26164,1764759549
+"Svay Rieng","Svay Rieng",11.0878,105.7994,Cambodia,KH,KHM,"Svay Rieng",admin,23956,1116432743
+"Amnat Charoen","Amnat Charoen",15.8500,104.6333,Thailand,TH,THA,"Amnat Charoen",admin,25858,1764038011
+"Ban Khlong Ton Madua","Ban Khlong Ton Madua",13.6372,100.2967,Thailand,TH,THA,"Samut Sakhon",,22265,1764645463
+"Tbeng Meanchey","Tbeng Meanchey",13.8167,104.9667,Cambodia,KH,KHM,"Preah Vihear",admin,24380,1116207762
+"Krathum Baen","Krathum Baen",13.6519,100.2572,Thailand,TH,THA,"Samut Sakhon",minor,21904,1764425264
+"Lop Buri","Lop Buri",14.8000,100.6269,Thailand,TH,THA,"Lop Buri",admin,24166,1764574750
+Chanthaburi,Chanthaburi,12.6086,102.1039,Thailand,TH,THA,Chanthaburi,admin,23835,1764151688
+Satun,Satun,6.6147,100.0681,Thailand,TH,THA,Satun,admin,23612,1764836023
+Phetchaburi,Phetchaburi,13.1119,99.9458,Thailand,TH,THA,Phetchaburi,admin,23235,1764000534
+Phichit,Phichit,16.4431,100.3467,Thailand,TH,THA,Phichit,admin,22299,1764024236
+Loei,Loei,17.4903,101.7250,Thailand,TH,THA,Loei,admin,22339,1764996883
+Phetchabun,Phetchabun,16.4169,101.1533,Thailand,TH,THA,Phetchabun,admin,22121,1764518331
+"Nong Bua Lamphu","Nong Bua Lamphu",17.2042,102.4444,Thailand,TH,THA,"Nong Bua Lamphu",admin,21528,1764333285
+Nan,Nan,18.7833,100.7833,Thailand,TH,THA,Nan,admin,20595,1764061223
+Yasothon,Yasothon,15.7883,104.1506,Thailand,TH,THA,Yasothon,admin,20414,1764520637
+"Phra Pradaeng","Phra Pradaeng",13.6590,100.5329,Thailand,TH,THA,"Samut Prakan",minor,10190,1764849819
+"Sơn La","Son La",21.3270,103.9141,Vietnam,VN,VNM,"Sơn La",admin,19054,1704957010
+Attapu,Attapu,14.8000,106.8333,Laos,LA,LAO,Attapu,admin,19200,1418894454
+"Đông Hà","Dong Ha",16.8056,107.0906,Vietnam,VN,VNM,"Quảng Trị",admin,17662,1704264596
+"Sing Buri","Sing Buri",14.8911,100.4031,Thailand,TH,THA,"Sing Buri",admin,17843,1764482111
+"Prachin Buri","Prachin Buri",14.0567,101.3739,Thailand,TH,THA,"Prachin Buri",admin,17768,1764262472
+"Sa Kaeo","Sa Kaeo",13.8206,102.0589,Thailand,TH,THA,"Sa Kaeo",admin,17864,1764207048
+"Ban Houayxay","Ban Houayxay",20.2833,100.4167,Laos,LA,LAO,Bokèo,admin,17687,1418944950
+Tak,Tak,16.8711,99.1250,Thailand,TH,THA,Tak,admin,17565,1764055292
+Phayao,Phayao,19.1653,99.9036,Thailand,TH,THA,Phayao,admin,17467,1764291128
+Phrae,Phrae,18.1436,100.1417,Thailand,TH,THA,Phrae,admin,16668,1764209592
+"Pathum Thani","Pathum Thani",13.9841,100.5512,Thailand,TH,THA,"Pathum Thani",admin,13987,1764434288
+Ranong,Ranong,9.9619,98.6389,Thailand,TH,THA,Ranong,admin,16125,1764623795
+"Nakhon Nayok","Nakhon Nayok",14.2031,101.2150,Thailand,TH,THA,"Nakhon Nayok",admin,16195,1764068248
+Xaignabouli,Xaignabouli,19.2576,101.7103,Laos,LA,LAO,Xaignabouli,admin,16200,1418760593
+Sukhothai,Sukhothai,17.0142,99.8219,Thailand,TH,THA,Sukhothai,admin,15618,1764175777
+"Uthai Thani","Uthai Thani",15.3800,100.0250,Thailand,TH,THA,"Uthai Thani",admin,15434,1764844835
+Phôngsali,Phongsali,21.6836,102.1053,Laos,LA,LAO,Phôngsali,admin,15083,1418524729
+"Ang Thong","Ang Thong",14.5925,100.4572,Thailand,TH,THA,"Ang Thong",admin,13277,1764529940
+"Magugpo Poblacion","Magugpo Poblacion",7.3821,125.8017,Philippines,PH,PHL,"Davao del Norte",,6726,1608255342
+Lamphun,Lamphun,18.5803,99.0072,Thailand,TH,THA,Lamphun,admin,12595,1764104264
+"Chai Nat","Chai Nat",15.1872,100.1283,Thailand,TH,THA,"Chai Nat",admin,12541,1764848732
+"Đà Nẵng","Da Nang",16.0748,108.2240,Vietnam,VN,VNM,"Đà Nẵng",admin,,1704949870
+Catarman,Catarman,12.4989,124.6377,Philippines,PH,PHL,"Northern Samar",admin,,1608432162
+"La Trinidad","La Trinidad",16.4556,120.5903,Philippines,PH,PHL,Benguet,admin,,1608000107
+Trat,Trat,12.2417,102.5125,Thailand,TH,THA,Trat,admin,10413,1764126822
+Phangnga,Phangnga,8.4644,98.5317,Thailand,TH,THA,Phangnga,admin,10412,1764855952
+Kalibo,Kalibo,11.7086,122.3648,Philippines,PH,PHL,Aklan,admin,,1608268539
+"Sen Monorom","Sen Monorom",12.4500,107.2000,Cambodia,KH,KHM,Mondolkiri,admin,7500,1116978997
+"San Jose","San Jose",10.7450,121.9415,Philippines,PH,PHL,Antique,admin,,1608138574
+Daet,Daet,14.1122,122.9553,Philippines,PH,PHL,"Camarines Norte",admin,,1608562606
+Virac,Virac,13.5848,124.2374,Philippines,PH,PHL,Catanduanes,admin,,1608265120
+Bayombong,Bayombong,16.4812,121.1497,Philippines,PH,PHL,"Nueva Vizcaya",admin,,1608066874
+"Mae Hong Son","Mae Hong Son",19.3011,97.9700,Thailand,TH,THA,"Mae Hong Son",admin,6526,1764090874
+Jolo,Jolo,6.0522,121.0022,Philippines,PH,PHL,Sulu,admin,,1608685440
+Bongao,Bongao,5.0292,119.7731,Philippines,PH,PHL,Tawi-Tawi,admin,,1608490585
+Salavan,Salavan,15.7167,106.4167,Laos,LA,LAO,Salavan,admin,5521,1418448631
+"Ta Khmau","Ta Khmau",11.4833,104.9500,Cambodia,KH,KHM,Kandal,admin,,1116571704
+"Hưng Yên","Hung Yen",20.6464,106.0511,Vietnam,VN,VNM,"Hưng Yên",admin,,1704000203
+"Bueng Kan","Bueng Kan",18.3669,103.6552,Thailand,TH,THA,"Bueng Kan",admin,4494,1764944006
+Isulan,Isulan,6.6294,124.6051,Philippines,PH,PHL,"Sultan Kudarat",admin,,1608085930
+Boac,Boac,13.4463,121.8400,Philippines,PH,PHL,Marinduque,admin,,1608972476
+Tubod,Tubod,8.0555,123.7904,Philippines,PH,PHL,"Lanao del Norte",admin,,1608442374
+Mamburao,Mamburao,13.2233,120.5960,Philippines,PH,PHL,"Occidental Mindoro",admin,,1608912012
+Nabunturan,Nabunturan,7.6029,125.9629,Philippines,PH,PHL,"Compostela Valley",admin,,1608879246
+Malita,Malita,6.4150,125.6117,Philippines,PH,PHL,"Davao Occidental",admin,,1608802375
+Bangued,Bangued,17.5982,120.6155,Philippines,PH,PHL,Abra,admin,,1608442037
+Mambajao,Mambajao,9.2504,124.7156,Philippines,PH,PHL,Camiguin,admin,,1608281273
+"Louang Namtha","Louang Namtha",20.9500,101.4167,Laos,LA,LAO,Louangnamtha,admin,3225,1418920136
+Naval,Naval,11.5612,124.3952,Philippines,PH,PHL,Biliran,admin,,1608929611
+Iba,Iba,15.3276,119.9780,Philippines,PH,PHL,Zambales,admin,,1608986957
+Lingayen,Lingayen,16.0218,120.2319,Philippines,PH,PHL,Pangasinan,admin,,1608464071
+Banlung,Banlung,13.7394,106.9873,Cambodia,KH,KHM,Ratanakiri,admin,,1116605438
+"Phủ Lý","Phu Ly",20.5453,105.9122,Vietnam,VN,VNM,"Hà Nam",admin,,1704841896
+Romblon,Romblon,12.5751,122.2708,Philippines,PH,PHL,Romblon,admin,,1608428749
+Alabel,Alabel,6.1018,125.2905,Philippines,PH,PHL,Sarangani,admin,,1608579431
+Baler,Baler,15.7589,121.5607,Philippines,PH,PHL,Aurora,admin,,1608495530
+Siquijor,Siquijor,9.2142,123.5150,Philippines,PH,PHL,Siquijor,admin,,1608692949
+Sihanoukville,Sihanoukville,10.6333,103.5000,Cambodia,KH,KHM,Sihanoukville,admin,,1116098692
+"Vĩnh Yên","Vinh Yen",21.3100,105.5967,Vietnam,VN,VNM,"Vĩnh Phúc",admin,,1704905946
+Lagawe,Lagawe,16.8000,121.1192,Philippines,PH,PHL,Ifugao,admin,,1608396110
+"Tam Kỳ","Tam Ky",15.5667,108.4833,Vietnam,VN,VNM,"Quảng Nam",admin,,1704410655
+Ipil,Ipil,7.7844,122.5861,Philippines,PH,PHL,"Zamboanga Sibugay",admin,,1608307222
+Labuan,Labuan,5.2803,115.2475,Malaysia,MY,MYS,Labuan,admin,,1458460967
+"Điện Biên Phủ","Dien Bien Phu",21.3833,103.0169,Vietnam,VN,VNM,"Điện Biên",admin,,1704081536
+Basco,Basco,20.4486,121.9702,Philippines,PH,PHL,Batanes,admin,,1608620601
+"Shariff Aguak","Shariff Aguak",6.8647,124.4417,Philippines,PH,PHL,Maguindanao,admin,,1608346338
+Cabarroguis,Cabarroguis,16.5111,121.5212,Philippines,PH,PHL,Quirino,admin,,1608312278
+Jordan,Jordan,10.6584,122.5963,Philippines,PH,PHL,Guimaras,admin,,1608769914
+Suong,Suong,11.9167,105.6500,Cambodia,KH,KHM,"Tbong Khmum",admin,,1116319433
+"Đồng Xoài","Dong Xoai",11.5349,106.8832,Vietnam,VN,VNM,"Bình Phước",admin,,1704845487
+Bontoc,Bontoc,17.0899,120.9780,Philippines,PH,PHL,Mountain,admin,,1608526537
+"Đà Lạt","Da Lat",11.9359,108.4429,Vietnam,VN,VNM,"Lâm Đồng",admin,,1704933464
+Kabugao,Kabugao,18.0231,121.1840,Philippines,PH,PHL,Apayao,admin,,1608841504
+"Lai Châu","Lai Chau",22.3991,103.4393,Vietnam,VN,VNM,"Lai Châu",admin,,1704983526
+Prosperidad,Prosperidad,8.5800,125.8964,Philippines,PH,PHL,"Agusan del Sur",admin,,1608461552
+"Kon Tum","Kon Tum",14.3417,107.9792,Vietnam,VN,VNM,"Kon Tum",admin,,1704988146
+"Santa Cruz","Santa Cruz",14.1167,121.2833,Philippines,PH,PHL,Laguna,admin,,1608131481
+Samraong,Samraong,14.1817,103.5176,Cambodia,KH,KHM,"Oddar Meanchey",admin,,1116989175
+Koronadal,Koronadal,6.2541,124.9922,Philippines,PH,PHL,"South Cotabato",admin,,1608108139
+"Gia Nghĩa","Gia Nghia",12.0042,107.6907,Vietnam,VN,VNM,"Đắk Nông",admin,,1704361005
+Tutong,Tutong,4.8028,114.6492,Brunei,BN,BRN,Tutong,admin,,1096181037
+Pailin,Pailin,12.8489,102.6093,Cambodia,KH,KHM,Pailin,admin,,1116050327
+Phôn-Hông,Phon-Hong,18.4953,102.4153,Laos,LA,LAO,Viangchan,admin,,1418592644
+"San Jose","San Jose",10.1800,125.5683,Philippines,PH,PHL,"Dinagat Islands",admin,,1608435522
+Phônsavan,Phonsavan,19.4500,103.2000,Laos,LA,LAO,Xiangkhouang,admin,,1418378289
+Pakxan,Pakxan,18.3831,103.6669,Laos,LA,LAO,Bolikhamxai,admin,,1418088090
+Sofifi,Sofifi,0.7373,127.5588,Indonesia,ID,IDN,"Maluku Utara",admin,,1360431437
+Tabuk,Tabuk,17.4084,121.2785,Philippines,PH,PHL,Kalinga,admin,,1608980358
+Mamuju,Mamuju,-2.6806,118.8861,Indonesia,ID,IDN,"Sulawesi Barat",admin,,1360687242
+Xai,Xai,20.6922,101.9847,Laos,LA,LAO,Oudômxai,admin,,1418805827
+Bangar,Bangar,4.7083,115.0736,Brunei,BN,BRN,Temburong,admin,,1096321221
+Pili,Pili,13.7177,123.7448,Philippines,PH,PHL,"Camarines Sur",admin,,1608825988
+Xékong,Xekong,15.3503,106.7286,Laos,LA,LAO,Xékong,admin,,1418000082
+"Tanjung Selor","Tanjung Selor",2.8375,117.3653,Indonesia,ID,IDN,"Kalimantan Utara",admin,,1360029270
+Anouvông,Anouvong,18.8989,103.0919,Laos,LA,LAO,Xaisômboun,admin,,1418294155
+Tayabas,Tayabas,14.0167,121.5833,Philippines,PH,PHL,Quezon,,99779,1608195528
+Tacurong,Tacurong,6.6833,124.6667,Philippines,PH,PHL,"Sultan Kudarat",,98316,1608479806
+Tomohon,Tomohon,1.3244,124.8225,Indonesia,ID,IDN,"Sulawesi Utara",minor,96411,1360014714
+Guihulñgan,Guihulngan,10.1167,123.2667,Philippines,PH,PHL,"Negros Oriental",,95969,1608628412
+Bislig,Bislig,8.1833,126.3500,Philippines,PH,PHL,"Surigao del Sur",,94535,1608693408
+Escalante,Escalante,10.8333,123.5000,Philippines,PH,PHL,"Negros Occidental",,94070,1608433743
+Sampit,Sampit,-2.5329,112.9500,Indonesia,ID,IDN,"Kalimantan Tengah",minor,92710,1360020231
+Alaminos,Alaminos,16.1553,119.9808,Philippines,PH,PHL,Pangasinan,,89708,1608828653
+Victorias,Victorias,10.9000,123.0833,Philippines,PH,PHL,"Negros Occidental",,87933,1608236440
+Pariaman,Pariaman,-0.6261,100.1206,Indonesia,ID,IDN,"Sumatera Barat",minor,85485,1360811086
+Sumenep,Sumenep,-7.0049,113.8496,Indonesia,ID,IDN,"Jawa Timur",minor,84656,1360439354
+Tual,Tual,-5.6385,132.7450,Indonesia,ID,IDN,Maluku,,82955,1360221504
+Dapitan,Dapitan,8.6549,123.4243,Philippines,PH,PHL,"Zamboanga del Norte",,82418,1608014287
+"Science City of Muñoz","Science City of Munoz",15.7167,120.9000,Philippines,PH,PHL,"Nueva Ecija",,81483,1608795106
+Watampone,Watampone,-4.5328,120.3334,Indonesia,ID,IDN,"Sulawesi Selatan",minor,81629,1360956480
+Passi,Passi,11.1000,122.6333,Philippines,PH,PHL,Iloilo,,80544,1608905309
+Tanjay,Tanjay,9.5167,123.1583,Philippines,PH,PHL,"Negros Oriental",,80532,1608955515
+Bogo,Bogo,11.0167,124.0000,Philippines,PH,PHL,Cebu,,78120,1608673076
+Subulussalam,Subulussalam,2.6422,98.0042,Indonesia,ID,IDN,Aceh,,78801,1360306114
+"Ban Laem Chabang","Ban Laem Chabang",13.0860,100.9247,Thailand,TH,THA,"Chon Buri",,77798,1764108164
+Ende,Ende,-8.8333,121.6500,Indonesia,ID,IDN,"Nusa Tenggara Timur",minor,77205,1360796329
+Tuban,Tuban,-6.8995,112.0500,Indonesia,ID,IDN,"Jawa Timur",minor,76242,1360482232
+Bais,Bais,9.5907,123.1213,Philippines,PH,PHL,"Negros Oriental",,76291,1608298426
+Lamitan,Lamitan,6.6500,122.1333,Philippines,PH,PHL,Basilan,,74782,1608647250
+Tagaytay,Tagaytay,14.1000,120.9333,Philippines,PH,PHL,Cavite,,71181,1608593949
+"Ban Nong Prue","Ban Nong Prue",12.9227,100.9375,Thailand,TH,THA,"Chon Buri",,70594,1764743967
+Sipalay,Sipalay,9.7500,122.4000,Philippines,PH,PHL,"Negros Occidental",,70070,1608396492
+"Phú Quốc","Phu Quoc",10.2289,103.9572,Vietnam,VN,VNM,"Kiến Giang",minor,70000,1704992616
+Solok,Solok,-0.7883,100.6542,Indonesia,ID,IDN,"Sumatera Barat",,68602,1360178406
+"Ban Suan","Ban Suan",13.3616,100.9795,Thailand,TH,THA,"Chon Buri",,66092,1764305340
+"Ko Samui","Ko Samui",9.5157,99.9436,Thailand,TH,THA,"Surat Thani",minor,67265,1764771934
+Lahat,Lahat,-3.8000,103.5333,Indonesia,ID,IDN,"Sumatera Selatan",minor,65906,1360094721
+"La Carlota","La Carlota",10.4167,122.9167,Philippines,PH,PHL,"Negros Occidental",,64469,1608234277
+"Ban Lam Sam Kaeo","Ban Lam Sam Kaeo",13.9726,100.6506,Thailand,TH,THA,"Pathum Thani",,63271,1764012428
+Tangub,Tangub,8.0667,123.7500,Philippines,PH,PHL,"Misamis Occidental",,63011,1608158776
+Tanjungpandan,Tanjungpandan,-2.7500,107.6500,Indonesia,ID,IDN,"Kepulauan Bangka Belitung",minor,62374,1360732632
+Sawahlunto,Sawahlunto,-0.6828,100.7783,Indonesia,ID,IDN,"Sumatera Barat",,61427,1360188622
+"Ban Map Ta Phut","Ban Map Ta Phut",12.7258,101.1722,Thailand,TH,THA,Rayong,,60928,1764852224
+Candon,Candon,17.2000,120.4500,Philippines,PH,PHL,"Ilocos Sur",,60623,1608761578
+Soasio,Soasio,0.6964,127.4360,Indonesia,ID,IDN,"Maluku Utara",,60611,1360827216
+"Hua Hin","Hua Hin",12.5686,99.9578,Thailand,TH,THA,"Prachuap Khiri Khan",minor,59369,1764352388
+"Khlong Luang","Khlong Luang",14.0649,100.6447,Thailand,TH,THA,"Pathum Thani",minor,56128,1764560763
+Batac,Batac,18.0554,120.5649,Philippines,PH,PHL,"Ilocos Norte",,55201,1608314719
+Canlaon,Canlaon,10.3833,123.2000,Philippines,PH,PHL,"Negros Oriental",,54509,1608924591
+Ruteng,Ruteng,-8.6118,120.4698,Indonesia,ID,IDN,"Nusa Tenggara Timur",minor,53976,1360084520
+"Ban Om Noi","Ban Om Noi",13.7001,100.3241,Thailand,TH,THA,"Samut Sakhon",,52457,1764298817
+"El Salvador","El Salvador",8.5667,124.5167,Philippines,PH,PHL,"Misamis Oriental",,50204,1608813941
+Waingapu,Waingapu,-9.6582,120.2530,Indonesia,ID,IDN,"Nusa Tenggara Timur",minor,48828,1360882365
+Luwuk,Luwuk,-0.9396,122.7900,Indonesia,ID,IDN,"Sulawesi Tengah",minor,47778,1360727028
+Amahai,Amahai,-3.3281,128.9405,Indonesia,ID,IDN,Maluku,minor,47653,1360767250
+"Ban Plai Bua Phatthana","Ban Plai Bua Phatthana",13.9032,100.3989,Thailand,TH,THA,"Pathum Thani",,46274,1764928382
+"Ban Bang Mae Nang","Ban Bang Mae Nang",13.8815,100.3759,Thailand,TH,THA,Nonthaburi,,45974,1764607798
+Poso,Poso,-1.3896,120.7600,Indonesia,ID,IDN,"Sulawesi Tengah",minor,47110,1360727615
+"Ban Saen Suk","Ban Saen Suk",13.2882,100.9144,Thailand,TH,THA,"Chon Buri",,45142,1764664241
+Pemangkat,Pemangkat,1.1727,108.9808,Indonesia,ID,IDN,"Kalimantan Barat",,44783,1360279205
+Nabire,Nabire,-3.3515,135.5134,Indonesia,ID,IDN,Papua,minor,43898,1360322221
+Rantepao,Rantepao,-2.9690,119.9000,Indonesia,ID,IDN,"Sulawesi Selatan",minor,43123,1360797389
+Singhanakhon,Singhanakhon,7.2389,100.5506,Thailand,TH,THA,Songkhla,minor,42423,1764839884
+"Su-ngai Kolok","Su-ngai Kolok",6.0297,101.9668,Thailand,TH,THA,Narathiwat,minor,41590,1764527716
+"Muban Phimon Rat","Muban Phimon Rat",13.9189,100.3922,Thailand,TH,THA,Nonthaburi,,41498,1764300431
+"Bình Long","Binh Long",11.6504,106.6000,Vietnam,VN,VNM,"Bình Phước",,40279,1704953411
+"Ban Bang Khu Lat","Ban Bang Khu Lat",13.9134,100.3690,Thailand,TH,THA,Nonthaburi,,38758,1764924013
+Raub,Raub,3.7931,101.8569,Malaysia,MY,MYS,Pahang,,40024,1458881822
+Sabang,Sabang,5.8931,95.3200,Indonesia,ID,IDN,Aceh,,38077,1360742506
+Praya,Praya,-8.7223,116.2923,Indonesia,ID,IDN,"Nusa Tenggara Barat",minor,35183,1360664646
+"Pak Chong","Pak Chong",14.6796,101.3976,Thailand,TH,THA,"Nakhon Ratchasima",minor,35736,1764898547
+"Kuala Kapuas","Kuala Kapuas",-3.0996,114.3500,Indonesia,ID,IDN,"Kalimantan Tengah",minor,35632,1360858401
+Cha-am,Cha-am,12.7997,99.9669,Thailand,TH,THA,Phetchaburi,minor,35581,1764087780
+"Ban Ang Sila","Ban Ang Sila",13.3364,100.9278,Thailand,TH,THA,"Chon Buri",,33053,1764931523
+"Phra Phutthabat","Phra Phutthabat",14.7212,100.8047,Thailand,TH,THA,"Sara Buri",minor,34322,1764815202
+Merauke,Merauke,-8.4932,140.4018,Indonesia,ID,IDN,Papua,minor,34412,1360904439
+"Ban Pak Phun","Ban Pak Phun",8.5391,99.9702,Thailand,TH,THA,"Nakhon Si Thammarat",,33407,1764808518
+"Chum Phae","Chum Phae",16.5431,102.1104,Thailand,TH,THA,"Khon Kaen",minor,31597,1764511790
+Kulat,Kulat,-8.7151,115.1841,Indonesia,ID,IDN,Bali,,30012,1360003468
+"Mae Sot","Mae Sot",16.7101,98.5707,Thailand,TH,THA,Tak,minor,31530,1764198529
+"Thung Song","Thung Song",8.1645,99.6804,Thailand,TH,THA,"Nakhon Si Thammarat",minor,30500,1764422992
+"Ban Aranyik","Ban Aranyik",16.8146,100.3051,Thailand,TH,THA,Phitsanulok,,29825,1764420565
+"Ban Phai","Ban Phai",16.0730,102.7362,Thailand,TH,THA,"Khon Kaen",minor,28913,1764026556
+"Warin Chamrap","Warin Chamrap",15.2008,104.8612,Thailand,TH,THA,"Ubon Ratchathani",minor,28154,1764105770
+"Ban Chang","Ban Chang",12.7209,101.0669,Thailand,TH,THA,Rayong,minor,27668,1764733644
+"Ban Nong Sam Rong","Ban Nong Sam Rong",17.4514,102.7650,Thailand,TH,THA,"Udon Thani",,27354,1764827236
+Kathu,Kathu,7.9112,98.3475,Thailand,TH,THA,Phuket,minor,26078,1764733770
+Betong,Betong,5.7731,101.0725,Thailand,TH,THA,Yala,minor,26640,1764484131
+Tinipuka,Tinipuka,-4.5496,136.8900,Indonesia,ID,IDN,Papua,,26021,1360525797
+Takhli,Takhli,15.2667,100.3500,Thailand,TH,THA,"Nakhon Sawan",minor,24563,1764978785
+Sattahip,Sattahip,12.6636,100.9036,Thailand,TH,THA,"Chon Buri",minor,23418,1764518101
+"Ban Phru","Ban Phru",6.9480,100.4794,Thailand,TH,THA,Songkhla,,23518,1764608441
+"Si Racha","Si Racha",13.1744,100.9306,Thailand,TH,THA,"Chon Buri",minor,23400,1764003327
+"Ban Mae Cho","Ban Mae Cho",18.9032,99.0041,Thailand,TH,THA,"Chiang Mai",,23140,1764558376
+"Wichian Buri","Wichian Buri",15.6565,101.1072,Thailand,TH,THA,Phetchabun,minor,22995,1764906431
+"Ban Piang Luang","Ban Piang Luang",19.6493,98.6352,Thailand,TH,THA,"Chiang Mai",,22215,1764002589
+"Ban Patong","Ban Patong",7.8981,98.3047,Thailand,TH,THA,Phuket,,20363,1764195169
+"Nang Rong","Nang Rong",14.6363,102.7746,Thailand,TH,THA,Buriram,minor,21493,1764430858
+"Wang Nam Yen","Wang Nam Yen",13.5004,102.1806,Thailand,TH,THA,"Sa Kaeo",minor,21301,1764123627
+Sadao,Sadao,6.6386,100.4240,Thailand,TH,THA,Songkhla,minor,21086,1764417199
+Seria,Seria,4.6142,114.3303,Brunei,BN,BRN,Belait,,21082,1096351415
+"Mae Sai","Mae Sai",20.4266,99.8841,Thailand,TH,THA,"Chiang Rai",minor,20699,1764624336
+"Pak Phanang","Pak Phanang",8.3511,100.2019,Thailand,TH,THA,"Nakhon Si Thammarat",minor,20425,1764714642
+"Kampong Thum","Kampong Thum",12.7120,104.8890,Cambodia,KH,KHM,"Kampong Thom",,19951,1116000326
+"Ban Tha Kham","Ban Tha Kham",9.1059,99.2326,Thailand,TH,THA,"Surat Thani",,19939,1764400647
+"Ban Na San","Ban Na San",8.7997,99.3635,Thailand,TH,THA,"Surat Thani",minor,19801,1764021256
+"Ban Bueng","Ban Bueng",13.3140,101.1114,Thailand,TH,THA,"Chon Buri",minor,19346,1764134032
+Kantharalak,Kantharalak,14.6536,104.6278,Thailand,TH,THA,Sisaket,minor,19392,1764009547
+"Ban Mae Kha Tai","Ban Mae Kha Tai",18.7433,98.9640,Thailand,TH,THA,"Chiang Mai",,18564,1764637838
+Lumphat,Lumphat,13.5070,106.9810,Cambodia,KH,KHM,Ratanakiri,minor,19205,1116149070
+"Tak Bai","Tak Bai",6.2592,102.0530,Thailand,TH,THA,Narathiwat,minor,18943,1764842940
+"Tha Bo","Tha Bo",17.8494,102.5858,Thailand,TH,THA,"Nong Khai",minor,18320,1764956322
+"Sam Phran","Sam Phran",13.7270,100.2153,Thailand,TH,THA,"Nakhon Pathom",minor,17611,1764639144
+Sikhio,Sikhio,14.9000,101.7167,Thailand,TH,THA,"Nakhon Ratchasima",minor,18209,1764681503
+"Ban Thum","Ban Thum",16.4523,102.7225,Thailand,TH,THA,"Khon Kaen",,17564,1764043980
+"Ban Pong","Ban Pong",13.8174,99.8830,Thailand,TH,THA,Ratchaburi,minor,17298,1764963515
+Sawankhalok,Sawankhalok,17.3096,99.8266,Thailand,TH,THA,Sukhothai,minor,17148,1764710205
+"Ban Thung Tam Sao","Ban Thung Tam Sao",6.9581,100.3207,Thailand,TH,THA,Songkhla,,16344,1764139945
+Aranyaprathet,Aranyaprathet,13.6928,102.5017,Thailand,TH,THA,"Sa Kaeo",minor,16211,1764167237
+"Ban Dung","Ban Dung",17.6986,103.2613,Thailand,TH,THA,"Udon Thani",minor,15913,1764905558
+"Si Satchanalai","Si Satchanalai",17.4155,99.8152,Thailand,TH,THA,Sukhothai,minor,15691,1764174789
+"Kuala Lipis","Kuala Lipis",4.1840,102.0420,Malaysia,MY,MYS,Pahang,,15448,1458124212
+"Ban Na Kham","Ban Na Kham",14.0681,101.8125,Thailand,TH,THA,"Prachin Buri",,15465,1764834379
+"Ban Ton Pao","Ban Ton Pao",18.7591,99.0784,Thailand,TH,THA,"Chiang Mai",,15175,1764110544
+"Taphan Hin","Taphan Hin",16.2108,100.4188,Thailand,TH,THA,Phichit,minor,15329,1764640959
+Thoen,Thoen,17.6118,99.2160,Thailand,TH,THA,Lampang,minor,15360,1764582305
+"Bang Racham","Bang Racham",14.8864,100.3235,Thailand,TH,THA,"Sing Buri",minor,14577,1764338966
+"Sai Buri","Sai Buri",6.7012,101.6181,Thailand,TH,THA,Pattani,minor,14137,1764406670
+"Det Udom","Det Udom",14.9060,105.0784,Thailand,TH,THA,"Ubon Ratchathani",minor,14264,1764920064
+"Pak Thong Chai","Pak Thong Chai",14.7302,102.0263,Thailand,TH,THA,"Nakhon Ratchasima",minor,14272,1764718877
+"Bua Yai","Bua Yai",15.5858,102.4337,Thailand,TH,THA,"Nakhon Ratchasima",minor,14168,1764992879
+"Dok Kham Tai","Dok Kham Tai",19.1612,99.9946,Thailand,TH,THA,Phayao,minor,13450,1764998774
+Champasak,Champasak,14.8833,105.8667,Laos,LA,LAO,Champasak,,13400,1418902447
+"Song Phi Nong","Song Phi Nong",14.2306,100.0389,Thailand,TH,THA,"Suphan Buri",minor,12926,1764684967
+"Kaeng Khoi","Kaeng Khoi",14.5864,100.9967,Thailand,TH,THA,"Sara Buri",minor,12752,1764167813
+Kantang,Kantang,7.4067,99.5150,Thailand,TH,THA,Trang,minor,12533,1764372106
+"Lom Sak","Lom Sak",16.7775,101.2468,Thailand,TH,THA,Phetchabun,minor,12290,1764798281
+"Tha Maka","Tha Maka",13.9499,99.7530,Thailand,TH,THA,Kanchanaburi,minor,11966,1764775732
+"Wang Saphung","Wang Saphung",17.2995,101.7624,Thailand,TH,THA,Loei,minor,11992,1764106072
+"Don Sak","Don Sak",9.3169,99.6944,Thailand,TH,THA,"Surat Thani",minor,11934,1764466914
+Kuchinarai,Kuchinarai,16.5318,104.0440,Thailand,TH,THA,Kalasin,minor,11753,1764821226
+Phon,Phon,15.8160,102.5998,Thailand,TH,THA,"Khon Kaen",minor,11593,1764718749
+"Ban Sam Khwai Phueak","Ban Sam Khwai Phueak",13.8283,100.1041,Thailand,TH,THA,"Nakhon Pathom",,10837,1764661640
+"Phanat Nikhom","Phanat Nikhom",13.4458,101.1844,Thailand,TH,THA,"Chon Buri",minor,11032,1764762615
+"Lang Suan","Lang Suan",9.9519,99.0813,Thailand,TH,THA,Chumphon,minor,11250,1764676997
+Khlung,Khlung,12.4547,102.2214,Thailand,TH,THA,Chanthaburi,minor,11073,1764654331
+"Phibun Mangsahan","Phibun Mangsahan",15.2482,105.2296,Thailand,TH,THA,"Ubon Ratchathani",minor,10842,1764591980
+Kranuan,Kranuan,16.7081,103.0811,Thailand,TH,THA,"Khon Kaen",minor,10726,1764256426
+Makale,Makale,-3.0860,119.8469,Indonesia,ID,IDN,"Sulawesi Selatan",minor,9960,1360576738
+"Tha Mai","Tha Mai",12.6196,102.0112,Thailand,TH,THA,Chanthaburi,minor,9843,1764588619
+Photharam,Photharam,13.6918,99.8531,Thailand,TH,THA,Ratchaburi,minor,9575,1764429218
+"Ban Krot","Ban Krot",14.3121,100.6005,Thailand,TH,THA,"Phra Nakhon Si Ayutthaya",,9471,1764143463
+"Takua Pa","Takua Pa",8.8658,98.3413,Thailand,TH,THA,Phangnga,minor,8815,1764000562
+"Bang Mun Nak","Bang Mun Nak",16.0278,100.3792,Thailand,TH,THA,Phichit,minor,8756,1764958140
+Chumsaeng,Chumsaeng,15.8980,100.3110,Thailand,TH,THA,"Nakhon Sawan",minor,8426,1764781477
+Tarutung,Tarutung,2.0171,98.9667,Indonesia,ID,IDN,"Sumatera Utara",minor,1305,1360333240
+"Luân Châu","Luan Chau",21.7400,103.3430,Vietnam,VN,VNM,"Điện Biên",,7335,1704201464
+Xiangkhoang,Xiangkhoang,19.3337,103.3666,Laos,LA,LAO,Xiangkhouang,,5189,1418829021
+Buton,Buton,4.2170,108.2000,Indonesia,ID,IDN,"Kepulauan Riau",,140,1360984658

@@ -1,0 +1,1 @@
+* * * * * /usr/local/bin/php /cron/src/Jobs/scheduler.php >> /cron/logs/cron.log 2>&1
